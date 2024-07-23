@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>cst8288</groupId>
-    <artifactId>S24_Lab2</artifactId>
+    <artifactId>DAO_pattern</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
     
@@ -25,5 +25,5 @@
         </dependency>
     </dependencies>
     
-    <name>S24_Lab2</name>
+    <name>DAO_pattern</name>
 </project>
